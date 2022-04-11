@@ -1,2 +1,2 @@
 ### Hi there 👋
-# Welcome To Blockly Games！
+# This is a forked ZH-CN version of Blockly Games hosted on Github Pages.
